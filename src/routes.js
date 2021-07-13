@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import CadastroMidia from './pages/CadastroMidia';
 import Login from './pages/Login';
+import Main from './pages/Main'
 
 function Routes(){
   return(

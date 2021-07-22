@@ -1,0 +1,40 @@
+{
+  "categorias": [
+    {
+      "id": "acao",
+      "nome": "Ação"
+    },
+    {
+      "id": "comedia",
+      "nome": "Comedia"
+    },
+    {
+      "id": "terror",
+      "nome": "Terror"
+    },
+    {
+      "id": "dorama",
+      "nome": "Dorama"
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "title": "Velozes e Furiosos 9",
+      "description": "O longa vem dando continuidade às corridas eletrizantes da equipe de amigos liderada por Dominic Toretto.",
+      "sinopse": "Em Velozes & Furiosos 9, Dominic Toretto (Vin Diesel) e Letty (Michelle Rodriguez) vivem uma vida pacata ao lado de seu filho Brian. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob (John Cena). Trata-se de um assassino habilidoso e motorista excelente, que está trabalhando ao lado de Cipher (Charlize Theron), vilã de Velozes & Furiosos 8. Para enfrentá-los, Toretto vai precisar reunir sua equipe novamente, inclusive Han (Sung Kang), que todos acreditavam estar morto.",
+      "capa": "/home/jhitallo/Downloads/Web5+/Web5/formulario/assets/filmes/velozesEFuriosos9/capa.jpg",
+      "fundo": "/home/jhitallo/Downloads/Web5+/Web5/formulario/assets/filmes/velozesEFuriosos9/fundo.jpg",
+      "categoria": "acao"
+    },
+    {
+      "id": 2,
+      "title": "Run On",
+      "description": "Um famoso atleta dá uma guinada na vida e decide correr atrás de seus sonhos e seguir seu coração após conhecer uma tradutora.",
+      "sinopse": "Run On começa acompanhando o atleta velocista Seon-gyeom (Im Si-wan) e a tradutora Oh Mi-joo (Shin Se-kyung). Os dois se encontram de maneiras inesperadas várias vezes ao longo do primeiro episódio e descobrem, mais tarde, que Mi-joo é a nova intérprete de Seon-gyeom. Na medida em que os primeiros episódios vão se desenrolando, Seon-gyeom percebe que seu colega Kim Woo-shik (Lee Jung-ha) está sofrendo bullying pesado de algum dos seus companheiros de pista, fazendo com que o protagonista busque justiça para o amigo.",
+      "capa": "/home/jhitallo/Downloads/Web5+/Web5/formulario/assets/filmes/runOn/capa.jpeg",
+      "fundo": "/home/jhitallo/Downloads/Web5+/Web5/formulario/assets/filmes/runOn/fundo.jpg",
+      "categoria": "dorama"
+    }
+  ]
+}

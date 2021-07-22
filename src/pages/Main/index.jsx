@@ -1,19 +1,14 @@
 import React from 'react';
-import { Component } from 'react';
-import { useHistory } from 'react-router-dom'
+import CardFilmes from '../../compoments/CardFilmes'
 
 
-class Main extends Component {
+const Main = () => {
+  return (
+    <main>
+      <h1>Home</h1>
+      <CardFilmes url={'/filmes'} />
+    </main>
 
-  render() {
-    return (
-      <div>
-        <button type='button' >
-
-        </button>
-      </div>
-    );
-  }
+  )
 }
-
 export default Main;

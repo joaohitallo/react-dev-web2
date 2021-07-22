@@ -1,0 +1,22 @@
+
+section {
+  background-color: #fff;
+  color: black;
+}
+
+h3{
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+div {
+  border: 7px;
+  border-color: aqua;
+}
+.linkCard {
+  border: 2px;
+  border-color: blue;
+}
